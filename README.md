@@ -1,3 +1,3 @@
 # Samples
 This is the sample python codes.
-Author - Arun 
+Author - Arun (own)
